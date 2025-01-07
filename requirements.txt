@@ -1,3 +1,7 @@
 numpy
 pandas
--e .
+# cd-e .
+scikit-learn
+matplotlib
+catboost
+xgboost
